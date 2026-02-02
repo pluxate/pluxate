@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey Hi Hello!
+
+I go by plux or pluxate in the online world and currently... \*checks calendar\* in 2026, I'm just doing my best to jump in!
+
+Right now, I'm learning C++ in school and teaching myself other languages/ways to think about code.
+
+I'm currently working on a project called "Cairn Routes", a website designed as a guidebook for the game Cairn and all the routes you can climb that the community has defined.
 
 <!--
 **pluxate/pluxate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
